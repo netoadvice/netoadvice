@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Banner do perfil" width="100%">
+  <img src="./assets/profile-banner-edited.png" alt="Banner do perfil" width="850">
 </p>
-
 # Neto
 
 Cybersecurity Student | Linux Enthusiast | Networking Learner
