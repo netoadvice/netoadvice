@@ -1,5 +1,8 @@
-macrovision = synopsis 
+macrovision = synopsis
+
+
 print ' synopsis' 
+
 
 int main(void) { while 
 (learning)
