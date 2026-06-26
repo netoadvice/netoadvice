@@ -12,4 +12,10 @@ int main(void) { while
 
 security and developement learner. 
 
+ ♪  now playing
+
+        Don't Go Away
+        Oasis
+
+        02:51 ───────────────●────── 04:48
 
